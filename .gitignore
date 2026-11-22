@@ -1,0 +1,13 @@
+venv_materials/
+.venv/
+__pycache__/
+*.pyc
+*:Zone.Identifier
+.env
+.env.*
+
+*.xlsx
+*:sec.endpointdlp
+
+*.xlsx
+!εκφώνηση_lab_1.xlsx
